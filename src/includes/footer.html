@@ -1,0 +1,30 @@
+<footer>
+    <div class="wrapper">
+        <p>Made with <i class="icon-heart"></i> by <a href="https://blog.imwang.top/" title="Dutch Coders">Alan Wang</a>
+        </p>
+    </div>
+
+</footer>
+
+
+
+    <script>
+    (function() {
+      var userVoiceKey = "{{.UserVoiceKey}}";
+      if (userVoiceKey != "") {
+        var uv = document.createElement('script');
+        uv.type = 'text/javascript';
+        uv.async = true;
+        uv.src = '//widget.uservoice.com/{{.UserVoiceKey}}.js';
+        var s = document.getElementsByTagName('script')[0];
+        s.parentNode.insertBefore(uv, s)
+      }
+    })()
+    </script>
+
+    <!--[if lt IE 7]>
+      <p class="browsehappy">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> to improve your experience.</p>
+    <![endif]-->
+
+   
+  
