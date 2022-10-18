@@ -2,7 +2,7 @@
 - 该仓库为 [transfer.sh](https://github.com/dutchcoders/transfer.sh/) 项目的前端样式文件
 - [2020.01.07] fork 自 [transfer.sh-web](https://github.com/dutchcoders/transfer.sh-web) ，改动如下：
     - 精简部分内容：去除图片、推广、多余的example
-    - 根据国人使用习惯重新排版，参考图：![transfer.sh-web](https://img.imwang.top/transfer.jpg)
+    - 根据国人使用习惯重新排版，参考图：![transfer.sh-web](https://img.imwang.top/article/transfer.jpg)
 
 ## How to use it
 
